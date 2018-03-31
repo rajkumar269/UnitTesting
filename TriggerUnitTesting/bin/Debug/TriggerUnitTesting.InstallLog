@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\TriggerUnitTesting\bin\Debug\TriggerUnitTesting.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\TriggerUnitTesting\bin\Debug\TriggerUnitTesting.InstallLog
+   assemblypath = D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\TriggerUnitTesting\bin\Debug\TriggerUnitTesting.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\TriggerUnitTesting\bin\Debug\TriggerUnitTesting.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\TriggerUnitTesting\bin\Debug\TriggerUnitTesting.InstallLog
+   assemblypath = D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\TriggerUnitTesting\bin\Debug\TriggerUnitTesting.exe

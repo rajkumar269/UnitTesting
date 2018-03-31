@@ -1,0 +1,16 @@
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\GenericPortal.Site.Development.Test.dll.config
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\GenericPortal.Site.Development.Test.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\GenericPortal.Site.Development.Test.pdb
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\GenericPortal.Data.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\GenericPortal.Site.Development.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\nunit.framework.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\PurePrint.Utilities.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\MSMQUtility.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\GenericPortal.Data.pdb
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\GenericPortal.Site.Development.pdb
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\bin\Debug\nunit.framework.xml
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\obj\Debug\GenericPortal.Site.Development.Test.Properties.Resources.resources
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\obj\Debug\GPP.Site.Development.Test.csproj.GenerateResource.Cache
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\obj\Debug\GenericPortal.Site.Development.Test.dll
+C:\Users\Janu\Documents\Downloads\Compressed\Personal\MyProjects\GPP\Jenkins\UnitTestWebApplication\GPP.Site.Development.Test\obj\Debug\GenericPortal.Site.Development.Test.pdb

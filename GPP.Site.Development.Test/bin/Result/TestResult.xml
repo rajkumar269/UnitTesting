@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\GenericPortal.Site.Development.Test\bin\Debug\GenericPortal.Site.Development.Test.dll" total="21" errors="2" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-01-12" time="18:54:43">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Windows\system32" machine-name="D01TMC031" user="SYSTEM" user-domain="DSRCDC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\GenericPortal.Site.Development.Test\bin\Debug\GenericPortal.Site.Development.Test.dll" executed="True" result="Failure" success="False" time="2.017" asserts="0">
+    <results>
+      <test-suite type="SetUpFixture" name="GenericPortalUnitTestProject" executed="True" result="Success" success="True" time="1.967" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="GPPNunitTest" executed="True" result="Success" success="True" time="1.966" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="Test_boeStatusUpdate" executed="True" result="Success" success="True" time="1.600" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.Test_boeStatusUpdate(10018,32,&quot;Empty&quot;,&quot;In finishing&quot;,&quot;1015&quot;,6,&quot;cover&quot;,&quot;BOOK-DL&quot;,&quot;32_1001.pdf&quot;,1)" executed="True" result="Success" success="True" time="1.590" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.Test_boeStatusUpdate(10018,32,&quot;Empty&quot;,&quot;Bound&quot;,&quot;0&quot;,7,&quot;0&quot;,&quot;0&quot;,&quot;32_1001.pdf&quot;,1)" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.Test_boeStatusUpdate(10018,32,&quot;Empty&quot;,&quot;Processing&quot;,&quot;1015&quot;,10,&quot;cover&quot;,&quot;BOOK-DL&quot;,&quot;&quot;,1)" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="Test_lmnEagleStatusUpdate" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.Test_lmnEagleStatusUpdate(100041,37,&quot;Empty&quot;,&quot;Bound&quot;,&quot;0&quot;,7,&quot;0&quot;,&quot;0&quot;,&quot;100041.pdf&quot;,1)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.Test_lmnEagleStatusUpdate(100041,37,&quot;Empty&quot;,&quot;In finishing&quot;,&quot;1&quot;,6,&quot;0&quot;,&quot;lmn:boy:softback:en-GB&quot;,&quot;100041.pdf&quot;,1)" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="TestGetDashboardStatsbyId" executed="True" result="Success" success="True" time="0.084" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestGetDashboardStatsbyId(&quot;44&quot;,1)" executed="True" result="Success" success="True" time="0.060" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestGetDashboardStatsbyId(&quot;37&quot;,1)" executed="True" result="Success" success="True" time="0.023" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="TestGetTrafficLightFlag" executed="True" result="Success" success="True" time="0.172" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestGetTrafficLightFlag(&quot;AddHours&quot;,-45,1,37,1)" executed="True" result="Success" success="True" time="0.142" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestGetTrafficLightFlag(&quot;Today&quot;,0,1,37,3)" executed="True" result="Success" success="True" time="0.020" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestGetTrafficLightFlag(&quot;AddDays&quot;,-2,1,37,2)" executed="True" result="Success" success="True" time="0.007" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="TestValidateScanningCodeForClientID" executed="True" result="Success" success="True" time="0.063" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestValidateScanningCodeForClientID(37,&quot;123&quot;,&quot;0,0,0&quot;)" executed="True" result="Success" success="True" time="0.057" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestValidateScanningCodeForClientID(37,&quot;22&quot;,&quot;1,4,22&quot;)" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="TestVerifyClientDetailsbyId" executed="True" result="Success" success="True" time="0.008" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestVerifyClientDetailsbyId(&quot;44&quot;,0)" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestVerifyClientDetailsbyId(&quot;40&quot;,1)" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="TestVerifyLoadClient" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestVerifyLoadClient()" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="TestVerifyLogin" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                <results>
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestVerifyLogin(&quot;admin1&quot;,0)" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                  <test-case name="GenericPortalUnitTestProject.GPPNunitTest.TestVerifyLogin(&quot;admin&quot;,1)" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Namespace" name="TrainingSite" executed="True" result="Failure" success="False" time="0.038" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="0.038" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestTrainingSite" executed="True" result="Failure" success="False" time="0.038" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="CreateUser" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                    <results>
+                      <test-case name="TrainingSite.Test.TestTrainingSite.CreateUser()" executed="True" result="Success" success="True" time="0.009" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="DeleteUser" executed="True" result="Failure" success="False" time="0.009" asserts="0">
+                    <results>
+                      <test-case name="TrainingSite.Test.TestTrainingSite.DeleteUser(1)" executed="True" result="Error" success="False" time="0.008" asserts="0">
+                        <failure>
+                          <message><![CDATA[System.NotImplementedException : The method or operation is not implemented.]]></message>
+                          <stack-trace><![CDATA[at MiddleTraining.ImplentUserRole.DeleteUser(Int32 userID) in d:\David\Projects\Development\GPPJenkins\WebApplication\GenericPortal.Site.Development\BusinessLogic\ImplentUserRole.cs:line 57
+at TrainingSite.Test.TestTrainingSite.DeleteUser(Int32 UserID) in d:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\GenericPortal.Site.Development.Test\TestTrainingSite.cs:line 50
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="GetUserInfo" executed="True" result="Failure" success="False" time="0.001" asserts="0">
+                    <results>
+                      <test-case name="TrainingSite.Test.TestTrainingSite.GetUserInfo(1)" executed="True" result="Error" success="False" time="0.001" asserts="0">
+                        <failure>
+                          <message><![CDATA[System.NotImplementedException : The method or operation is not implemented.]]></message>
+                          <stack-trace><![CDATA[at MiddleTraining.ImplentUserRole.GetUserInfo(Int32 UserID) in d:\David\Projects\Development\GPPJenkins\WebApplication\GenericPortal.Site.Development\BusinessLogic\ImplentUserRole.cs:line 51
+at TrainingSite.Test.TestTrainingSite.GetUserInfo(Int32 UserID) in d:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\GenericPortal.Site.Development.Test\TestTrainingSite.cs:line 44
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="GetUserList" executed="True" result="Failure" success="False" time="0.011" asserts="0">
+                    <results>
+                      <test-case name="TrainingSite.Test.TestTrainingSite.GetUserList()" executed="True" result="Failure" success="False" time="0.011" asserts="1">
+                        <failure>
+                          <message><![CDATA[  Expected: not <empty>
+  But was:  <empty>
+]]></message>
+                          <stack-trace><![CDATA[at TrainingSite.Test.TestTrainingSite.GetUserList() in d:\David\Projects\Development\GPPJenkins\UnitTestWebApplication\GenericPortal.Site.Development.Test\TestTrainingSite.cs:line 38
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
